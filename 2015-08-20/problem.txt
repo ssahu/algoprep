@@ -1,0 +1,12 @@
+1. Write a recursive code to find all permutations of a string and print them. If a character is repeated in a string, treat is as a new character. 
+2.  Write recursive code to find factorial of a number 
+
+Deadline: 
+Tonight
+
+Things to submit:
+1. Pseudocode in English
+2. Code in language of your choice 
+3. Space and Time Complexity of your code
+
+Good luck! 
