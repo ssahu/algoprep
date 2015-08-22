@@ -1,0 +1,22 @@
+Topic – Recursion
+Questions:
+
+1. Implement a function to print all possible combinations of characters in a string.
+The length range of the combinations would be [1 to string length].
+For Eg: Input: GOD, Output: {G, O, D, GO, OD}.
+Note: GO and OG are the same combination and only one of them should be in the output. 
+
+2. Write recursive code to print the Fibonacci Series.
+Note: The Fibonacci Sequence is the series of numbers: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, …
+The next number is found by adding up the twonumbers before it.
+Similarly, the 3 is found by adding the two numbers before it (1+2)
+
+Deadline: 
+22nd August, 2015, 9:00 AM PST
+
+Submit:
+Pseudocode in English
+Code in language of your choice 
+Space and Time Complexity of your code
+
+Good luck!
