@@ -1,5 +1,6 @@
 # space complexity is O(n)
 # store the fibonacci numbers for quick lookup
+# cab be made better by storing only the last 2
 # time complexity is O(n)
 import sys
 fib = []
